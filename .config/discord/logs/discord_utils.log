@@ -1,0 +1,39 @@
+[2026-Nov-03 05:33:01.240 +00:00][212103:212103][info ] Logging initialized
+[2026-Nov-03 05:33:01.843 +00:00][212103:212175][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 05:33:01.843 +00:00][212103:212175][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 05:33:03.577 +00:00][212103:212261][warning] Failed to connect to Wayland display
+[2026-Nov-03 05:33:03.579 +00:00][212103:212103][info ] Logging initialized
+[2026-Nov-03 05:34:06.815 +00:00][212916:212916][info ] Logging initialized
+[2026-Nov-03 05:34:07.843 +00:00][212916:212958][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 05:34:07.844 +00:00][212916:212958][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 05:35:50.858 +00:00][213399:213399][info ] Logging initialized
+[2026-Nov-03 05:35:51.795 +00:00][213399:213442][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 05:35:51.795 +00:00][213399:213442][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 05:35:56.785 +00:00][213399:213442][info ] inputEventRegister 2: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 05:36:54.966 +00:00][213399:213442][info ] inputEventRegister 3: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 05:36:56.166 +00:00][213399:213442][info ] inputEventRegister 4: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 06:09:56.958 +00:00][213399:213442][info ] inputEventRegister 5: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 06:16:38.462 +00:00][213399:213442][info ] inputEventRegister 6: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 07:51:33.096 +00:00][213399:213442][info ] inputEventRegister 7: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 22:39:54.847 +00:00][ 1246: 1246][info ] Logging initialized
+[2026-Nov-03 22:39:55.880 +00:00][ 1246: 1308][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 22:39:55.880 +00:00][ 1246: 1308][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-03 22:39:59.795 +00:00][ 1246: 1308][info ] inputEventRegister 2: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 04:46:28.290 +00:00][ 1246: 1308][info ] inputEventRegister 3: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 04:48:05.956 +00:00][ 1246: 1308][info ] inputEventRegister 4: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 00:01:09.017 -05:00][13294:13294][info ] Logging initialized
+[2026-Nov-04 00:01:10.143 -05:00][13294:13335][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 00:01:10.143 -05:00][13294:13335][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 00:01:13.939 -05:00][13294:13335][info ] inputEventRegister 2: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 00:07:18.698 -05:00][13294:13335][info ] inputEventRegister 3: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 00:07:20.829 -05:00][13294:13335][info ] inputEventRegister 4: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 01:51:40.087 -05:00][ 1248: 1248][info ] Logging initialized
+[2026-Nov-04 01:51:41.082 -05:00][ 1248: 1299][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 01:51:41.082 -05:00][ 1248: 1299][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 01:51:45.782 -05:00][ 1248: 1299][info ] inputEventRegister 2: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 15:13:51.131 -05:00][20522:20522][info ] Logging initialized
+[2026-Nov-04 15:13:52.162 -05:00][20522:20572][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 15:13:52.162 -05:00][20522:20572][info ] inputEventRegister 0: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 15:13:53.824 -05:00][20522:20572][info ] inputEventRegister 2: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 20:30:17.645 -05:00][20522:20572][info ] inputEventRegister 3: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)
+[2026-Nov-04 21:08:10.187 -05:00][20522:20572][info ] inputEventRegister 4: X11 path (portalAvailable=false allowPortal=false focusRestricted=false)

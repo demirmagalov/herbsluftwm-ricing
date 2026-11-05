@@ -1,0 +1,22 @@
+! --- urxvt Classic Xterm Look ---
+URxvt*background: #423323
+URxvt*foreground: #FFFFFF
+URxvt*cursorColor: #000000
+URxvt.scrollBar: false
+URxvt.borderWidth: 0
+URxvt.internalBorder: 2
+URxvt.perl-ext-common: ""
+URxvt.perl-ext: ""
+
+! --- Font Configuration ---
+URxvt*font:            xft:Inconsolata:style=Bold:size=11:antialias=true:hinting=true
+URxvt*boldFont:        xft:Inconsolata:style=Bold:size=11:antialias=true:hinting=true
+
+! Reset letter spacing to let the vector font scale naturally
+URxvt*letterSpace:     0
+URxvt*boldMode:        true
+URxvt*intensityStyles: true
+
+!  --- The Ultimate Backspace Fixes ---
+URxvt*backarrowKey: false
+URxvt*ttyModes: erase ^?

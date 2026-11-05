@@ -1,0 +1,12 @@
+{
+  "theme": "builtin://terminal"
+}
+
+{
+  "keybindings": [
+    {
+      "keys": ["ctrl+h"],
+      "command": "delete_backward"
+    }
+  ]
+}

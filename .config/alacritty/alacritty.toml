@@ -1,0 +1,24 @@
+[window]
+# Completely strips the application title bar natively
+decorations = "None"
+
+# Internal padding so text doesn't slam against the window edges
+padding = { x = 4, y = 4 }
+
+[colors.primary]
+background = "#FFFFFF"
+foreground = "#000000"
+
+[colors.cursor]
+cursor = "#000000"
+text = "#FFFFFF"
+
+[font]
+# This keeps your clean, sharp fixed-width layout
+normal = { family = "monospace", style = "Regular" }
+size = 10.0
+
+[font.bold]
+# Forces bold text to render exactly like standard text
+family = "monospace"
+style = "Regular"

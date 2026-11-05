@@ -1,0 +1,11 @@
+{
+  "files": [
+    "discord_utils.node",
+    "input_capture.js",
+    "input_event.js",
+    "linux_dom_keycodes.js",
+    "package.json",
+    "index.js",
+    "manifest.json"
+  ]
+}
